@@ -1,9 +1,9 @@
-## Hello! I am Adeyinka Adebowale
+# Hello! I am Adeyinka Adebowale
 
 I am Data Analyst | Data Analyst Instructor / Mentor 
 ___________________________________________________________________________
 
-** About Me :**
+### About Me :
 
 <!--
 **Adeyinka-Israel/Adeyinka-Israel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
